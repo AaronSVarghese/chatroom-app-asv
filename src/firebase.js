@@ -5,12 +5,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // 🔁 Paste your actual config here
 const firebaseConfig = {
-  apiKey: "AIzaSyAp8L2c00YBYi0UcLwFTgrtkQxN3LWj4gA",
-  authDomain: "react-chat-app-bddf8.firebaseapp.com",
-  projectId: "react-chat-app-bddf8",
-  storageBucket: "react-chat-app-bddf8.firebasestorage.app",
-  messagingSenderId: "572895702372",
-  appId: "1:572895702372:web:ed9821e96f9714bf4bde71"
+  apiKey: "AIzaSyDxazPmhBjT5djxxh9scLqX0G9lXazOGmE",
+  authDomain: "chatapp-final-21203.firebaseapp.com",
+  projectId: "chatapp-final-21203",
+  storageBucket: "chatapp-final-21203.firebasestorage.app",
+  messagingSenderId: "294238755429",
+  appId: "1:294238755429:web:bfe68c1df38611138f048c"
 };
 
 // 🔌 Initialize Firebase
